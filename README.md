@@ -1,14 +1,12 @@
 ## Hi there 👋 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
-Learn more about my projects on my website: [smstone0.github.io](https://smstone0.github.io/)
+Learn more about my projects on my [website](https://smstone0.github.io/)
 
 ### Languages and Tools
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-          
-          
 
-[![smstone0's top languages](https://github-readme-stats-smstone0.vercel.app/api/top-langs/?username=smstone0&theme=dark&layout=compact&include_private=true)](https://github.com/anuraghazra/github-readme-stats)
-Includes private repos i.e. university projects
+[![smstone0's top languages](https://github-readme-stats-smstone0.vercel.app/api/top-langs/?username=smstone0&theme=dark&layout=compact&include_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+<p>Stats include private repos i.e. university projects</p>
 
 <!--
 **smstone0/smstone0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
