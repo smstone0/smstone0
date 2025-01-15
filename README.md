@@ -16,7 +16,7 @@ Learn more about my projects on my [website](https://smstone0.github.io/)
 <a href="https://www.w3schools.com/sql/"><img width="50px" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/></a>
 <a href="https://www.php.net/"><img width="50px" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/></a>
 
-[![smstone0's top languages](https://github-readme-stats-smstone0.vercel.app/api/top-langs/?username=smstone0&theme=dark&layout=compact&include_private=true&cache_seconds=600)](https://github.com/anuraghazra/github-readme-stats) 
+[![smstone0's top languages](https://github-readme-stats-smstone0.vercel.app/api/top-langs/?username=smstone0&theme=dark&layout=compact&include_private=true&cache_seconds=600&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
 <p>Stats include private repos i.e. university projects</p>
 
 <!--
