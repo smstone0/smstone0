@@ -17,6 +17,7 @@ Learn more about my projects on my [website](https://smstone0.github.io/)
 <a href="https://flutter.dev/"><img width="50px" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/></a>
 <a href="https://www.figma.com/"><img width="50px" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/></a>
 <a href="https://www.sqlite.org/"><img width="50px" alt="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/></a>
+<a href="https://www.mysql.com/"><img width="50px" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/></a>
 
 [![smstone0's top languages](https://github-readme-stats-smstone0.vercel.app/api/top-langs/?username=smstone0&theme=dark&layout=compact&include_private=true&cache_seconds=600&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
 <p>Stats include private repos i.e. university projects</p>
