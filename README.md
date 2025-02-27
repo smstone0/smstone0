@@ -5,7 +5,7 @@ Learn more about my projects on my [website](https://smstone0.github.io/) or vis
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c,py,dart,php)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,flutter,figma,sqlite,mysql,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,flutter,figma,sqlite,mysql,aws,terraform)](https://skillicons.dev)
 
 [![smstone0's top languages](https://github-readme-stats-smstone0.vercel.app/api/top-langs/?username=smstone0&theme=dark&layout=compact&include_private=true&cache_seconds=600&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
 <p>Stats include private repos i.e. university projects</p>
