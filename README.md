@@ -4,7 +4,7 @@ Feel free to visit my [portfolio](https://smstone0.github.io/) or my [Linkedin](
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,py,dart,react,flutter,figma,sqlite,mysql,aws,terraform&perline=7)](https://skillicons.dev)
 
-[![Top languages](https://github-readme-stats-smstone0.vercel.app/api/top-langs/?username=smstone0&theme=react&layout=compact&include_private=true&cache_seconds=600&langs_count=8&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top languages](https://github-readme-stats-smstone0.vercel.app/api/top-langs/?username=smstone0&theme=nightowl&layout=compact&include_private=true&cache_seconds=600&langs_count=8&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **smstone0/smstone0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
