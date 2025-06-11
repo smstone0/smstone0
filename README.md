@@ -7,19 +7,36 @@ Feel free to visit my [portfolio](https://smstone0.github.io/) or my [Linkedin](
   <tr>
     <td><b>Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=js,py,dart,java,html,css,c" alt="Languages">
+      <div align="left">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+        <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+        <img src="https://skillicons.dev/icons?i=c" alt="C" />
+      </div>
     </td>
   </tr>
   <tr>
     <td><b>Frameworks & Tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,sqlite,mysql,aws,terraform,figma" alt="Frameworks and Tools">
+      <div align="left">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" />
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+        <img src="https://skillicons.dev/icons?i=express" alt="Express" />
+        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
+        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+        <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" />
+        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+      </div>
     </td>
   </tr>
 </table>
 
 [![Top languages](https://github-readme-stats-smstone0.vercel.app/api/top-langs/?username=smstone0&theme=nightowl&layout=compact&include_private=true&cache_seconds=600&langs_count=8&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **smstone0/smstone0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
