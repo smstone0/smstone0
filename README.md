@@ -8,6 +8,7 @@ Feel free to visit my [portfolio](https://smstone0.github.io/) or my [Linkedin](
     <td><b>Languages</b></td>
     <td>
       <div align="left">
+        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
         <img src="https://skillicons.dev/icons?i=py" alt="Python" />
         <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
@@ -18,16 +19,26 @@ Feel free to visit my [portfolio](https://smstone0.github.io/) or my [Linkedin](
       </div>
     </td>
   </tr>
+
   <tr>
-    <td><b>Frameworks & Tools</b></td>
+    <td><b>Frameworks</b></td>
     <td>
       <div align="left">
         <img src="https://skillicons.dev/icons?i=react" alt="React" />
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
         <img src="https://skillicons.dev/icons?i=express" alt="Express" />
         <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <div align="left">
         <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
         <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
         <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
         <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" />
         <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
