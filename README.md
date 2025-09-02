@@ -2,14 +2,14 @@
 
 Feel free to visit my [portfolio](https://smstone0.github.io/) or my [Linkedin](https://www.linkedin.com/in/sophie-stone-/)
 
-### Tech Stack
+<h3>Tech Stack</h3>
 <table>
   <tr>
     <td><b>Languages</b></td>
     <td>
       <div align="left">
-        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
         <img src="https://skillicons.dev/icons?i=py" alt="Python" />
         <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
         <img src="https://skillicons.dev/icons?i=java" alt="Java" />
@@ -25,6 +25,7 @@ Feel free to visit my [portfolio](https://smstone0.github.io/) or my [Linkedin](
     <td>
       <div align="left">
         <img src="https://skillicons.dev/icons?i=react" alt="React" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose" alt="Jetpack Compose"/>
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
         <img src="https://skillicons.dev/icons?i=express" alt="Express" />
         <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
@@ -47,7 +48,12 @@ Feel free to visit my [portfolio](https://smstone0.github.io/) or my [Linkedin](
   </tr>
 </table>
 
-[![Top languages](https://github-readme-stats-smstone0.vercel.app/api/top-langs/?username=smstone0&theme=nightowl&layout=compact&include_private=true&cache_seconds=600&langs_count=8&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+    <summary><h3>GitHub Stats</h3></summary>
+    <figure>
+        <img src="https://github-readme-stats-smstone0.vercel.app/api/top-langs/?username=smstone0&theme=nightowl&layout=compact&include_private=true&cache_seconds=600&langs_count=8&hide_border=true&bg_color=00000000" />
+    </figure>
+</details>
 
 <!--
 **smstone0/smstone0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
