@@ -25,9 +25,9 @@ Feel free to visit my [portfolio](https://smstone0.github.io/) or my [Linkedin](
     <td>
       <div align="left">
         <img src="https://skillicons.dev/icons?i=react" alt="React" />
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose" alt="Jetpack Compose"/>
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
         <img src="https://skillicons.dev/icons?i=express" alt="Express" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose" alt="Jetpack Compose"/>
         <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
       </div>
     </td>
