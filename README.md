@@ -3,15 +3,7 @@
 Feel free to visit my [portfolio](https://smstone0.github.io/) or my [Linkedin](https://www.linkedin.com/in/sophie-stone-/).
 
 I've used a lot of technologies, but at the moment I'm likely to be working with: <br><br>
-<img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose" alt="Jetpack Compose"/>
-<img src="https://skillicons.dev/icons?i=java" alt="Java" />
-<img src="https://skillicons.dev/icons?i=cs" alt="C#" />
-<img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-<img src="https://skillicons.dev/icons?i=react" alt="React" />
-<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-<img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-<img src="https://skillicons.dev/icons?i=css" alt="CSS" />   
+<img src="https://skillicons.dev/icons?i=react" alt="React" />  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=html" alt="HTML" /> <img src="https://skillicons.dev/icons?i=css" alt="CSS" /> <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose" alt="Jetpack Compose"/>
 
 <details>
     <summary><h3>GitHub Stats</h3></summary>
