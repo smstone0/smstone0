@@ -2,8 +2,13 @@
 
 Feel free to visit my [portfolio](https://smstone0.github.io/) or my [Linkedin](https://www.linkedin.com/in/sophie-stone-/).
 
-I've used a lot of technologies, but at the moment I'm likely to be working with: <br><br>
-<img src="https://skillicons.dev/icons?i=react" alt="React" />  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=html" alt="HTML" /> <img src="https://skillicons.dev/icons?i=css" alt="CSS" /> <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose" alt="Jetpack Compose"/>
+I've used a lot of technologies, but at the moment I'm likely to be working with:
+
+<table><thead>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=react" alt="React" />  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=html" alt="HTML" /> <img src="https://skillicons.dev/icons?i=css" alt="CSS" /> <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose" alt="Jetpack Compose"/></td>
+  </tr></thead>
+</table>
 
 <details>
     <summary><h3>GitHub Stats</h3></summary>
